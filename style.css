@@ -32,6 +32,11 @@ a {
     list-style: none;
 }
 
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
 
 
 
